@@ -71,16 +71,6 @@ Packet 2:
 
 ```
 
-## Project Structure
-
-```
-simple-network-traffic-analyzer/
-│
-├── simple_network_analyzer.py  # Main application script
-├── README.md                   # Project documentation
-└── requirements.txt            # List of dependencies (optional)
-```
-
 ## Requirements
 
 - **Python 3.x**
